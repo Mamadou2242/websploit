@@ -46,7 +46,7 @@ setup(
 
 	license='MIT',
 	author='Fardin Allahverdinazhand',
-	author_email='0x0ptim0us@gmail.com',
+	author_emailmadiou.www15@gmail.com ',
 	url='https://github.com/websploit/websploit',
 	download_url=WEBSPLOIT_DOWNLOAD,
 	keywords=['python3', 'websploit', 'wsf', 'MITM', 'wifi', 'arp spoof'],
